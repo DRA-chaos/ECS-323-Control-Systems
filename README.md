@@ -22,7 +22,8 @@ The folder for the rest of Assignment 1 questions, namely D.2,D.3,D.4,D.5 and D.
 
 Some Snapshots for Assignment 1 include:
 
-![image](https://user-images.githubusercontent.com/68393451/134778933-7b64d387-79a6-421b-9c1b-b06b7ccfad8d.png)
+![image](https://user-images.githubusercontent.com/68393451/134781113-26c4e74b-c0fc-4bd1-9888-53a4ba4f6de1.png)
+
 
 
 
