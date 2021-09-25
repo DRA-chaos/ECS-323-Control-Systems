@@ -10,7 +10,7 @@ from signalGenerator import signalGenerator
 from springAnimation import springAnimation
 from plotData import plotData
 from springDynamics import springDynamics
-from slider_input import *
+from damper_input import *
 
 # we are instantiating spring mass parameters and reference classes
 spring = springDynamics()
