@@ -6,3 +6,28 @@ This repository is a compendium of the Assignments and other necessary exercises
 Course Instructors: Dr Sujit. P.B, Mr. Swadhin Agarwal.
 
 For each assignment there has been a folder made that contains both the PDF of the derivations and the Google Colab Notebooks where the codes were implemented in a Python Interface.
+
+The problem I had to solve is Appendix D which is the spring mass damper system:
+
+
+![image](https://user-images.githubusercontent.com/68393451/134778919-33dc52f2-e9bf-4fbd-9695-b88a8e44cdc4.png)
+
+
+
+
+The Google Colab Notebook for the Animated graphs of the mass spring damper system can be accessed [here](https://github.com/DRA-chaos/ECS-323-Control-Systems/blob/main/Assignment%201/Animation_of_Mass_Spring_Damper_System_D_2.ipynb)
+
+The folder for the rest of Assignment 1 questions, namely D.2,D.3,D.4,D.5 and D.6 can be accessed [here](https://github.com/DRA-chaos/ECS-323-Control-Systems/tree/main/Assignment%201)
+
+
+Some Snapshots for Assignment 1 include:
+
+![image](https://user-images.githubusercontent.com/68393451/134778933-7b64d387-79a6-421b-9c1b-b06b7ccfad8d.png)
+
+
+
+![image](https://user-images.githubusercontent.com/68393451/134778949-31c898db-d40c-4ed0-9a37-65c9d7b43f2d.png)
+
+
+
+
