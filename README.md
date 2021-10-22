@@ -5,7 +5,7 @@ This repository is a compendium of the Assignments and other necessary exercises
 
 Course Instructors: Dr Sujit. P.B, Mr. Swadhin Agarwal.
 
-For each assignment there has been a folder made that contains both the PDF of the derivations and the Google Colab Notebooks where the codes were implemented in a Python Interface.
+For each assignment a folder has been made that contains both the PDF of the derivations and the Google Colab Notebooks where the codes were implemented in a Python Interface.
 
 The problem I had to solve is Appendix D which is the spring mass damper system:
 
